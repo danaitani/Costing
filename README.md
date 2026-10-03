@@ -33,3 +33,8 @@ The analysis uses:
 - Micro-costing inputs for WGS 
 - IPC and epidemiological assumptions informed by observed transmission clusters
 
+## Citation
+
+If you use these data or code, please cite the associated manuscript:
+
+Itani D, Allel K, Farjani S, Smaoui H, Zribi M, Thabet L, et al. Whole genome sequencing for Klebsiella pneumoniae in the Tunisian antimicrobial resistance surveillance system: micro-costing, pragmatic cost-effectiveness, and budget impact evaluation. The Lancet Regional Health – Eastern Mediterranean. 2026 Sep 23;0(0). doi:10.1016/j.laneme.2026.100005
